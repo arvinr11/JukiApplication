@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="WedangJeruk" size="1.000000 1.928977" />
+    <ImageTarget name="CabePuyang" size="1.000000 1.946023" />
+    <ImageTarget name="WedangJahe" size="1.000000 1.810667" />
+    <ImageTarget name="Temulawak" size="1.000000 1.997159" />
+    <ImageTarget name="KunyitAsem" size="1.000000 1.940341" />
+    <ImageTarget name="BerasKencur" size="1.000000 1.935574" />
+  </Tracking>
+</QCARConfig>
